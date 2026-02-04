@@ -1,10 +1,10 @@
 /**
- * MyTown ガイドサイト - 簡易インタラクション
+ * 今治 ガイドサイト - 簡易インタラクション
  */
 
 // ページ読み込み完了時の処理
 document.addEventListener('DOMContentLoaded', () => {
-  console.log('MyTown Guide サイトが読み込まれました！');
+  console.log('今治 Guide サイトが読み込まれました！');
 
   // スムーススクロール（アンカーリンク用）
   const links = document.querySelectorAll('a[href^="#"]');
